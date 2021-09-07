@@ -1,0 +1,15 @@
+.TodoList {
+    border: 2px solid #118ab2;
+    border-radius: 25px;
+    margin: 20px 0;
+    padding-bottom: 75px;
+}
+
+.TodoList ul {
+    list-style: none;
+    width: 90%;
+    display: block;
+    margin: auto;
+    /* min-height: 420px; */
+}
+/* #094A5D */

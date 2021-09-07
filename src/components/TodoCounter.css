@@ -1,0 +1,16 @@
+.TodoHero{
+    text-align: center;
+    border: 2px solid #118ab2;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 40px 0px 20px;
+}
+
+.TodoSalute {
+    font-size: 52px;
+    margin-bottom: 25px;
+}
+
+.TodoCounter {
+    font-size: 32px;
+}
