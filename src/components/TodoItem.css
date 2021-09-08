@@ -13,4 +13,23 @@
 
 .TodoItem-icons {
     margin: 0 30px;
+    font-size: 24px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.TodoItem-p--complete {
+    text-decoration: line-through;
+}
+
+.icon-Check--active {
+    color: #06D6A0;
+}
+
+.icon-Check:hover {
+    color: #06D6A0;
+}
+
+.icon-Delete:hover {
+    color: #EF476F;
 }

@@ -8,7 +8,15 @@
     font-size: 40px;
     padding: 0;
     position: absolute;
-    left: 50%;
+    left: 48%;
     -ms-transform: translateX(-50%);
-    transform: translateX(-50%)
+    transform: translateX(-50%);
+
+    cursor: pointer;
+    transform: rotate(0);
+    transition: .3s ease;
+}
+
+.CreateTodoButton:hover {
+    transform: rotate(224deg);
 }

@@ -14,3 +14,7 @@
 .TodoSearch::placeholder {
     color: rgb(116, 116, 116);
 }
+
+.TodoSearch:focus {
+    border-color: #FFD166;
+}
