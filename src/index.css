@@ -9,12 +9,10 @@ body {
   color: lightgrey;
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   max-width: 580px;
-  display: flex;
   margin: 0 auto;
 }
 
 #root {
   margin: 0 24px;
   position: relative;
-  min-height: 100vh;
 }

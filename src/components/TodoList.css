@@ -14,3 +14,8 @@
     /* min-height: 420px; */
 }
 /* #094A5D */
+
+.TodoList .useEffect {
+    text-align: center;
+    margin-bottom: 20px;
+}
