@@ -14,3 +14,7 @@
 .TodoCounter {
     font-size: 32px;
 }
+
+.TodoHero--loading{
+    opacity: 25%;
+}
