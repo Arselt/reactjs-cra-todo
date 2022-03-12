@@ -8,6 +8,7 @@ import { TodoItem } from '../components/TodoItem';
 import { Modal } from '../components/Modal';
 import { TodoForm } from '../components/TodoForm';
 import { CreateTodoButton } from '../components/CreateTodoButton';
+import { ChangeAlertWithStorageListener } from '../components/ChangeAlert';
 
 function App() {
     const { 
@@ -85,6 +86,7 @@ function App() {
         </Modal>
       )}
 
+      <ChangeAlertWithStorageListener />
     </React.Fragment>
   );
 }
